@@ -1,0 +1,43 @@
+# Python-specific files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project-specific output directories
+data/
+*.tif
+*.tiff
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environment and configuration files
+.env
+*.env
+secrets.json
+credentials.json
+
+# Python package distribution
+dist/
+build/
+*.egg-info/
