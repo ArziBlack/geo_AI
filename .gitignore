@@ -41,3 +41,10 @@ credentials.json
 dist/
 build/
 *.egg-info/
+
+node_modules/
+package.json
+git-users.json
+pnpm-lock.yaml
+dice.config.ts
+.husky

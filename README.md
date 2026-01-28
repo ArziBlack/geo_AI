@@ -34,7 +34,7 @@ Create and activate a virtual environment to isolate project dependencies:
     ```
   - On Windows:
     ```bash
-    venv\Scripts\activate
+    venv/Scripts/activate
     ```
 
 ### Step 3: Install the GeoAI Package
